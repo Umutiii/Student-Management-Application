@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "MIp4ahZ377TPkbwZD3lnywwNBFTG4MZKVRkGqgUMXdc=",
+  "Source": "App.StudentApi",
+  "BasePath": "_content/App.StudentApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
